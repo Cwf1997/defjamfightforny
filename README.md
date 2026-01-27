@@ -1,2 +1,2 @@
 # defjamfightforny
-A decompilation project of Def Jam: Fight for NY for Xbox.
+A decompilation project of Def Jam: Fight for NY for Xbox. It will be converted to C++ language.
